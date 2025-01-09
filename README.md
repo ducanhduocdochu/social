@@ -1,7 +1,7 @@
 # 🌐 Social App Backend
 
 ## 📂 Git Repository
-Bạn có thể truy cập mã nguồn dự án tại: [GitHub Repository](https://github.com/ducanhduocdochu/social)
+Dự án microservice với microrepo
 
 ## 📝 Tổng quan dự án
 Dự án được xây dựng với kiến trúc **Microservice**, đảm bảo hiệu suất cao và dễ mở rộng. Hệ thống được chia thành các dịch vụ độc lập với những chức năng cụ thể:
